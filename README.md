@@ -1,5 +1,5 @@
 # Doctornet VPN Landing page
 
-- https://raw.githubusercontent.com/doctornet-service/doctornet-web/
-- https://raw.githubusercontent.com/doctornet-service/doctornet-web/setup
-- https://raw.githubusercontent.com/doctornet-service/doctornet-web/policy
+- https://doctornet-service.github.io/doctornet-web/
+- https://doctornet-service.github.io/doctornet-web/setup
+- https://doctornet-service.github.io/doctornet-web/policy
